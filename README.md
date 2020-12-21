@@ -34,9 +34,13 @@ Using data recorded by Citi Bike for one of the busiest months of 2019, we analy
 
 ## Results
 
-<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1756px; height: 1093px;'><object class='tableauViz' width='1756' height='1093' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;tylersojka' /><param name='name' value='citibike&#47;CheckoutLengthsforUsers' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+
+<div class='tableauPlaceholder' id='viz1608559042497' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;9M&#47;9MPS7CNH3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;9MPS7CNH3' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;9M&#47;9MPS7CNH3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1608559042497');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 
-## Summary
+
+
+
+
 
 The biggest datapoint not mentioned in the data is the city itself. NYC and Des Moines are in completely different categories. NYC boasts a hearty population of over 8.3 million people, almost 12x that of Des Moines’ 700,000. NYC also has one of the largest tourism populations in the world, with 65.2 million visitors in 2018, including 13.5 international arrivals. Des Moines on the other hand, 13.7 million.
