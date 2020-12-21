@@ -100,3 +100,6 @@ Looking at the gender distribution of those people born in 1969, the majority we
 ![meh3](images/Screen%20Shot%202020-12-21%20at%2010.36.56%20AM.png)
 
 Looking a little closer to the types of riders born in 1969, it seems that the majority of them are customers, or one time users. This analysis leads me to believe that when customers, or one time users, use the platform, they are defaulted to being born in 1969, and unknown gender unless they choose to change it.
+
+
+[workbook link](https://public.tableau.com/profile/tyler.sojka#!/vizhome/Book3_16085703722190/Story1)
