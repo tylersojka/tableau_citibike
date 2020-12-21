@@ -34,7 +34,7 @@ Using data recorded by Citi Bike for one of the busiest months of 2019, we analy
 
 ## Results
 
-<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1777px; height: 1184px;'><object class='tableauViz' width='1777' height='1184' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;tylersojka' /><param name='name' value='citibike&#47;CheckoutLengthsforUsers' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1756px; height: 1093px;'><object class='tableauViz' width='1756' height='1093' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;tylersojka' /><param name='name' value='citibike&#47;CheckoutLengthsforUsers' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
 
 ## Summary
